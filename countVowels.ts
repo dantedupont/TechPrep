@@ -11,7 +11,7 @@ function countVowels(string: String): Number {
     return vowelAmount
 }
 
-console.log(countVowels('test'));
+console.log(countVowels('aaaafeewrwe'));
 
 // Solved in 9 minutes 
 // Got stuck using the object operator 'in' rather than the array method 'includes'
